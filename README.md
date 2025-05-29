@@ -188,6 +188,29 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Built by **Ali Qassim**
 GitHub: [AliQassim2](https://github.com/AliQassim2)
 
+1. Work Plan: Roles, Data Flow, and Access Levels
+The following diagram outlines the full hierarchy and data interactions in UniTrack:
+
+Level 1 (Students):
+Submit quizzes, receive marks (mid/final), and have absence tracked (morning/evening).
+
+Level 2 (Teachers):
+Manage practical and theoretical scores and record attendance.
+
+Level 3 (Management):
+
+Department Curriculum: Monitors attendance and issues warnings.
+
+Head of Department: Approves student grades.
+
+Dean of the College: Grants final academic approvals.
+
+University Supervisors: Oversee all grades and attendance.
+
+📎 Diagram:
+![UniTrack drawio](https://github.com/user-attachments/assets/e6548163-43d8-4830-84f1-bb76e9d3c0c6)
+
+
 ---
 
 
