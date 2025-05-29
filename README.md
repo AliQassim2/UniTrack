@@ -1,4 +1,3 @@
-Thanks! Since you're using **pure PHP** (not Laravel), here's the updated `README.md` tailored to your stack:
 
 ---
 
