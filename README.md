@@ -188,6 +188,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Built by **Ali Qassim**
 GitHub: [AliQassim2](https://github.com/AliQassim2)
 
+
+📊 11. Work Plan: Roles, Data Flow, and Access Levels
+
 1. Work Plan: Roles, Data Flow, and Access Levels
 The following diagram outlines the full hierarchy and data interactions in UniTrack:
 
@@ -207,7 +210,7 @@ Dean of the College: Grants final academic approvals.
 
 University Supervisors: Oversee all grades and attendance.
 
-📎 Diagram:
+📎 Diagram:<br>
 ![UniTrack drawio](https://github.com/user-attachments/assets/e6548163-43d8-4830-84f1-bb76e9d3c0c6)
 
 
