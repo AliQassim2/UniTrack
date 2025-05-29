@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🎓 UniTrack – University Attendance & Grade Management System
 
 ---
@@ -10,10 +6,10 @@
 
 **UniTrack** is a full university management system built using **pure PHP**. It automates attendance, grade tracking, absence alerts, and academic progression. The system is designed for use across:
 
-- 🧩 A PHP RESTful API (core backend)
-- 📱 Mobile application
-- 🌐 Web frontend
-- 💻 Desktop application
+* 🧩 A PHP RESTful API (core backend)
+* 📱 Mobile application
+* 🌐 Web frontend
+* 💻 Desktop application
 
 Perfect for educational institutions or developers who want a scalable, open-source solution.
 
@@ -22,27 +18,29 @@ Perfect for educational institutions or developers who want a scalable, open-sou
 ## 2. ❗ Problem
 
 Universities often face issues like:
-- Manual attendance tracking
-- Paper-based grade recording
-- Delays in absentee alerts
-- Lack of real-time student progress data
+
+* Manual attendance tracking
+* Paper-based grade recording
+* Delays in absentee alerts
+* Lack of real-time student progress data
 
 **UniTrack** solves these issues with:
-- Real-time attendance and grading
-- Centralized student records
-- Automatic absence alerting
-- Progression tracking to the next level
+
+* Real-time attendance and grading
+* Centralized student records
+* Automatic absence alerting
+* Progression tracking to the next level
 
 ---
 
 ## 3. ✨ Features
 
-- ✅ User authentication (register/login)
-- ✅ Record and retrieve attendance
-- ✅ Grade submission and analysis
-- ✅ Alert system for absent students
-- ✅ Student progression tracking
-- ✅ Fully RESTful PHP backend
+* ✅ User authentication (register/login)
+* ✅ Record and retrieve attendance
+* ✅ Grade submission and analysis
+* ✅ Alert system for absent students
+* ✅ Student progression tracking
+* ✅ Fully RESTful PHP backend
 
 ---
 
@@ -50,12 +48,12 @@ Universities often face issues like:
 
 This repo includes 4 branches for each platform:
 
-| Branch      | Description                            |
-|-------------|----------------------------------------|
-| `api`       | Pure PHP RESTful API                   |
-| `mobile`    | Mobile app (to be developed)           |
-| `web`       | Web frontend (to be developed)         |
-| `desktop`   | Desktop app (to be developed)          |
+| Branch    | Description                    |
+| --------- | ------------------------------ |
+| `api`     | Pure PHP RESTful API           |
+| `mobile`  | Mobile app (to be developed)   |
+| `web`     | Web frontend (to be developed) |
+| `desktop` | Desktop app (to be developed)  |
 
 ---
 
@@ -65,7 +63,7 @@ This repo includes 4 branches for each platform:
 
 ```markdown
 ![Database Schema](path/to/your/schema-image.png)
-````
+```
 
 ---
 
@@ -187,11 +185,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Built by **Ali Qassim**
 GitHub: [AliQassim2](https://github.com/AliQassim2)
 
-
-Absolutely! Here's your enhanced section with **GitHub badge-style elements** and some minor visual tweaks to improve how it appears in a `README.md` on GitHub.
-
-You can copy and paste this directly into your README:
-
 ---
 
 ## 11. 📊 Work Plan: System Roles, Data Flow & Access Levels
@@ -300,5 +293,3 @@ These roles are responsible for oversight, validation, and policy compliance.
 ---
 
 > 🔐 **Summary**: UniTrack enforces strict role-based access to maintain data integrity, academic fairness, and institutional compliance.
-
-
