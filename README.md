@@ -189,27 +189,83 @@ Built by **Ali Qassim**
 GitHub: [AliQassim2](https://github.com/AliQassim2)
 
 
-## 11. 📊 Work Plan: Roles, Data Flow, and Access Levels
-The following diagram outlines the full hierarchy and data interactions in UniTrack:
+##  11. 📊 Work Plan: System Roles, Data Flow & Access Levels
+This diagram illustrates the hierarchy and responsibilities of each user level in the UniTrack system.
 
-Level 1 (Students):
-Submit quizzes, receive marks (mid/final), and have absence tracked (morning/evening).
+📎 Diagram:
 
-Level 2 (Teachers):
-Manage practical and theoretical scores and record attendance.
+🔽 Level 1: Student
+Students do not submit data — they can only view the following:
 
-Level 3 (Management):
+Marks Section
 
-Department Curriculum: Monitors attendance and issues warnings.
+Quiz
 
-Head of Department: Approves student grades.
+Mid
 
-Dean of the College: Grants final academic approvals.
+Final
 
-University Supervisors: Oversee all grades and attendance.
+Curve (grade adjustment)
 
-📎 Diagram:<br>
-![UniTrack drawio](https://github.com/user-attachments/assets/e6548163-43d8-4830-84f1-bb76e9d3c0c6)
+Absence Section
+
+Separated into:
+
+Morning Study
+
+Evening Study
+
+Students see only the records relevant to their study time.
+
+🔽 Level 2: Teacher
+Teachers are divided into two roles:
+
+Practical Teachers
+
+Theoretical Teachers
+
+Access:
+
+Both can view all student data.
+
+Practical teachers can:
+
+Add grades for practical subjects
+
+Record absences
+
+Theoretical teachers can:
+
+Add grades for theoretical subjects
+
+View practical student records
+
+Cannot modify or record absence in practical classes
+
+🔽 Level 3: University Management
+Includes:
+
+🏛 Department Curriculum Committee
+
+🧑‍🏫 Head of Department
+
+🎓 Dean of College
+
+🧑‍💼 University Supervisors
+
+Access and Capabilities:
+
+View all student data (marks and attendance)
+
+Approve or reject grade submissions
+
+Monitor and issue warnings for absences
+
+Approve progression to the next academic stage
+
+Track faculty input quality
+
+⚙️ This structure ensures proper access control and separates responsibilities clearly while enabling transparency across all university levels.
 
 
 ---
