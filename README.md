@@ -214,10 +214,10 @@ For major changes, open an issue first to discuss what you’d like to implement
 
 ## 8. 📧 Contact
 
-Built with ❤️ by **Ali Qassim**
+Built with by **Ali Qassim**
 
 * GitHub: [@AliQassim2](https://github.com/AliQassim2)
-* Email: [ali@example.com](mailto:ali@example.com)
+* Email: [aliqassim532@gmail.com](mailto:aliqassim532@gmail.com)
 
 ---
 
